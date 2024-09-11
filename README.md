@@ -37,5 +37,5 @@ By working on this challenge, I was able to learn various important concepts in 
 
 ## Author
 
-- Website - [dejuliansr](https://github.com/dejuliansr)
+- Github - [dejuliansr](https://github.com/dejuliansr)
 - Frontend Mentor - [@dejuliansr](https://www.frontendmentor.io/profile/dejuliansr)
